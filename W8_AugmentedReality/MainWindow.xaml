@@ -1,0 +1,56 @@
+﻿<Window x:Class="W8_AugmentedReality.MainWindow"
+                xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Augmented Reality" Height="511" Width="646" Loaded="Window_Loaded" >
+    <Grid Height="480" Width="640" Name="window">
+
+        <Image Height="480" HorizontalAlignment="Left" Name="colorImg" Stretch="Fill" VerticalAlignment="Top" Width="640"/>
+        <Image Height="480" HorizontalAlignment="Left" Name="blackImg" Stretch="Fill" VerticalAlignment="Top" Width="640" Source="/W8_AugmentedReality;component/Images/black_out.png"/>
+
+        <Image Height="480" HorizontalAlignment="Left" Name="skeletonImg" Stretch="Fill" VerticalAlignment="Top" Width="640" />
+        <Image Height="480" HorizontalAlignment="Left" Name="hud" Stretch="Fill" VerticalAlignment="Top" Width="640" Source="/W8_AugmentedReality;component/Images/hud.png" />
+        <Image Height="480" HorizontalAlignment="Left" Name="hudRed" Stretch="Fill" VerticalAlignment="Top" Width="640" Source="/W8_AugmentedReality;component/Images/hudRed.png" />
+
+        <Image Stretch="Fill" VerticalAlignment="Top" HorizontalAlignment="Left" Width="102" Name="upRightArm" Source="/W8_AugmentedReality;component/Images/up_right_arm.png" >
+            <Image.RenderTransform>
+                <RotateTransform Angle="45" />
+            </Image.RenderTransform>
+            <Image.RenderTransformOrigin>
+                <Point X="0.5" Y="0"/>
+            </Image.RenderTransformOrigin>
+        </Image>
+
+        <Image Stretch="Fill" VerticalAlignment="Top" HorizontalAlignment="Left" Width="102" Name="upLeftArm" Source="/W8_AugmentedReality;component/Images/up_left_arm.png" >
+            <Image.RenderTransform>
+                <RotateTransform Angle="45" />
+            </Image.RenderTransform>
+            <Image.RenderTransformOrigin>
+                <Point X="0.5" Y="0"/>
+            </Image.RenderTransformOrigin>
+        </Image>
+
+        <Image Stretch="Fill" VerticalAlignment="Top" HorizontalAlignment="Left" Width="102" Name="lowRightArm" Source="/W8_AugmentedReality;component/Images/low_right_arm.png" >
+            <Image.RenderTransform>
+                <RotateTransform Angle="45" />
+            </Image.RenderTransform>
+            <Image.RenderTransformOrigin>
+                <Point X="0.5" Y="0"/>
+            </Image.RenderTransformOrigin>
+        </Image>
+
+        <Image Stretch="Fill" VerticalAlignment="Top" HorizontalAlignment="Left" Width="102" Name="lowLeftArm" Source="/W8_AugmentedReality;component/Images/low_Left_arm.png" >
+            <Image.RenderTransform>
+                <RotateTransform Angle="45" />
+            </Image.RenderTransform>
+            <Image.RenderTransformOrigin>
+                <Point X="0.5" Y="0"/>
+            </Image.RenderTransformOrigin>
+        </Image>
+
+        <TextBlock Height="36" HorizontalAlignment="Left" Margin="12,12,0,0" Name="beamAngleTxt" Text="Beam Angle: " VerticalAlignment="Top" Width="479" FontSize="20" />
+        <TextBlock Height="34" HorizontalAlignment="Left" Margin="12,64,0,0" Name="soundSourceAngleTxt" Text="Sound Source Angle: " VerticalAlignment="Top" Width="479" FontSize="20" />
+        <TextBlock FontSize="20" Height="34" HorizontalAlignment="Left" Margin="12,122,0,0" Name="recognizedColorTxt" Text="Recognized Color Name: " VerticalAlignment="Top" Width="649" />
+        <TextBlock x:Name="TBCountDown" HorizontalAlignment="Center" Margin="312,191,301,218" TextWrapping="Wrap" Text="3" VerticalAlignment="Center" Height="71" Width="27" FontSize="48" Foreground="#FF00FFF3"/>
+    </Grid>
+
+</Window>

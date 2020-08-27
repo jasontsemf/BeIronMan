@@ -1,0 +1,162 @@
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W10_AugmentedReality\W10_AugmentedReality\bin\Debug\W10_AugmentedReality.exe
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W10_AugmentedReality\W10_AugmentedReality\bin\Debug\W10_AugmentedReality.pdb
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W10_AugmentedReality\W10_AugmentedReality\obj\x86\Debug\MainWindow.baml
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W10_AugmentedReality\W10_AugmentedReality\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W10_AugmentedReality\W10_AugmentedReality\obj\x86\Debug\App.g.cs
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W10_AugmentedReality\W10_AugmentedReality\obj\x86\Debug\W10_AugmentedReality_MarkupCompile.cache
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W10_AugmentedReality\W10_AugmentedReality\obj\x86\Debug\W10_AugmentedReality.g.resources
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W10_AugmentedReality\W10_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.Properties.Resources.resources
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W10_AugmentedReality\W10_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.csproj.GenerateResource.Cache
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W10_AugmentedReality\W10_AugmentedReality\obj\x86\Debug\W10_AugmentedReality.exe
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W10_AugmentedReality\W10_AugmentedReality\obj\x86\Debug\W10_AugmentedReality.pdb
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W10_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W10_AugmentedReality.exe
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W10_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W10_AugmentedReality.pdb
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\W8_AugmentedReality.exe
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\W8_AugmentedReality.pdb
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.csprojResolveAssemblyReference.cache
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\MainWindow.baml
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\App.g.cs
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality_MarkupCompile.cache
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.g.resources
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.Properties.Resources.resources
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.csproj.GenerateResource.Cache
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.exe
+C:\Users\Hongbo\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.pdb
+d:\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.exe
+d:\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.pdb
+d:\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\W8_AugmentedReality.exe
+d:\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\W8_AugmentedReality.pdb
+d:\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.csprojResolveAssemblyReference.cache
+d:\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\MainWindow.baml
+d:\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\MainWindow.g.cs
+d:\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\App.g.cs
+d:\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality_MarkupCompile.cache
+d:\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.g.resources
+d:\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.Properties.Resources.resources
+d:\Dropbox\SM3603\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.csproj.GenerateResource.Cache
+C:\Users\manftse3\Desktop\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.exe
+C:\Users\manftse3\Desktop\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.pdb
+C:\Users\manftse3\Desktop\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\W8_AugmentedReality.exe
+C:\Users\manftse3\Desktop\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\W8_AugmentedReality.pdb
+C:\Users\manftse3\Desktop\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.csprojResolveAssemblyReference.cache
+C:\Users\manftse3\Desktop\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\MainWindow.baml
+C:\Users\manftse3\Desktop\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\MainWindow.g.cs
+C:\Users\manftse3\Desktop\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\App.g.cs
+C:\Users\manftse3\Desktop\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality_MarkupCompile.cache
+C:\Users\manftse3\Desktop\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.g.resources
+C:\Users\manftse3\Desktop\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.Properties.Resources.resources
+C:\Users\manftse3\Desktop\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.csproj.GenerateResource.Cache
+C:\Users\manftse3\Desktop\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Imgaes\bug.png
+C:\Users\manftse3\Desktop\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Imgaes\i_love_hk.png
+C:\Users\manftse3\Desktop\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality_Content.g.cs
+C:\Users\manftse3\Desktop\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Imgaes\torso.png
+C:\Users\manftse3\Desktop\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Imgaes\head.png
+C:\Users\manftse3\Desktop\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Imgaes\up_right_arm.png
+G:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.exe
+G:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.pdb
+U:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.exe
+U:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.pdb
+U:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Imgaes\bug.png
+U:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Imgaes\head.png
+U:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Imgaes\i_love_hk.png
+U:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Imgaes\torso.png
+U:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Imgaes\up_right_arm.png
+U:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\W8_AugmentedReality.exe
+U:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\W8_AugmentedReality.pdb
+U:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.csprojResolveAssemblyReference.cache
+U:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\MainWindow.baml
+U:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\MainWindow.g.cs
+U:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\App.g.cs
+U:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality_Content.g.cs
+U:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality_MarkupCompile.cache
+U:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.g.resources
+U:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.Properties.Resources.resources
+U:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.csproj.GenerateResource.Cache
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.exe
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.pdb
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\W8_AugmentedReality.exe
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\W8_AugmentedReality.pdb
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.csprojResolveAssemblyReference.cache
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\MainWindow.baml
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\MainWindow.g.cs
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\App.g.cs
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality_Content.g.cs
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality_MarkupCompile.cache
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.g.resources
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.Properties.Resources.resources
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.csproj.GenerateResource.Cache
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\bug.png
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\i_love_hk.png
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\torso.png
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\head.png
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\up_right_arm.png
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\right_calf.png
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\right_thigh.png
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\left_thigh.png
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\left_calf.png
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\suitupsound.mp3
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\suitup.wav
+C:\Users\manftse3\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\flysound.wav
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.exe
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.pdb
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\flysound.wav
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\bug.png
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\head.png
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\suitup.wav
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\suitupsound.mp3
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\i_love_hk.png
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\left_thigh.png
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\left_calf.png
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\right_calf.png
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\right_thigh.png
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\torso.png
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\up_right_arm.png
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\W8_AugmentedReality.exe
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\W8_AugmentedReality.pdb
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Microsoft.Kinect.dll
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Microsoft.Kinect.xml
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.csprojResolveAssemblyReference.cache
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\MainWindow.baml
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\MainWindow.g.cs
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\App.g.cs
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality_Content.g.cs
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality_MarkupCompile.cache
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.g.resources
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.Properties.Resources.resources
+E:\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.csproj.GenerateResource.Cache
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.exe
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.pdb
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.csprojResolveAssemblyReference.cache
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\MainWindow.baml
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\App.g.cs
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality_Content.g.cs
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality_MarkupCompile.cache
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.g.resources
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\flysound.wav
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\bug.png
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\head.png
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\suitup.wav
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\suitupsound.mp3
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\i_love_hk.png
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\left_thigh.png
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\left_calf.png
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\right_calf.png
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\right_thigh.png
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\torso.png
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\up_right_arm.png
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\W8_AugmentedReality.exe
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\W8_AugmentedReality.pdb
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.Properties.Resources.resources
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\obj\x86\Debug\W8_AugmentedReality.csproj.GenerateResource.Cache
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\up_left_arm.png
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\hud.png
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\low_right_arm.png
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\black_out.png
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Images\low_left_arm.png
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\Microsoft.Speech.dll
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\GestureRecognizer.dll
+C:\Users\Jason Tse\Desktop\new work space\Topic08-Augmented.Reality\W8_AugmentedReality\W8_AugmentedReality\bin\Debug\GestureRecognizer.pdb

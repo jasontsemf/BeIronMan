@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W8_AugmentedReality", "W8_AugmentedReality\W8_AugmentedReality.csproj", "{717B529D-43B2-4E5B-860B-D7ABCE75BA69}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BAD40427-8367-44CE-9E0F-0767DACB007A} = {BAD40427-8367-44CE-9E0F-0767DACB007A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestureRecognizer", "GestureRecognizer\GestureRecognizer.csproj", "{BAD40427-8367-44CE-9E0F-0767DACB007A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{717B529D-43B2-4E5B-860B-D7ABCE75BA69}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{717B529D-43B2-4E5B-860B-D7ABCE75BA69}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{717B529D-43B2-4E5B-860B-D7ABCE75BA69}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{717B529D-43B2-4E5B-860B-D7ABCE75BA69}.Debug|Win32.ActiveCfg = Debug|x86
+		{717B529D-43B2-4E5B-860B-D7ABCE75BA69}.Debug|x64.ActiveCfg = Debug|x86
+		{717B529D-43B2-4E5B-860B-D7ABCE75BA69}.Debug|x86.ActiveCfg = Debug|x86
+		{717B529D-43B2-4E5B-860B-D7ABCE75BA69}.Debug|x86.Build.0 = Debug|x86
+		{717B529D-43B2-4E5B-860B-D7ABCE75BA69}.Release|Any CPU.ActiveCfg = Release|x86
+		{717B529D-43B2-4E5B-860B-D7ABCE75BA69}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{717B529D-43B2-4E5B-860B-D7ABCE75BA69}.Release|Mixed Platforms.Build.0 = Release|x86
+		{717B529D-43B2-4E5B-860B-D7ABCE75BA69}.Release|Win32.ActiveCfg = Release|x86
+		{717B529D-43B2-4E5B-860B-D7ABCE75BA69}.Release|x64.ActiveCfg = Release|x86
+		{717B529D-43B2-4E5B-860B-D7ABCE75BA69}.Release|x86.ActiveCfg = Release|x86
+		{717B529D-43B2-4E5B-860B-D7ABCE75BA69}.Release|x86.Build.0 = Release|x86
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Debug|Win32.Build.0 = Debug|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Debug|x64.Build.0 = Debug|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Debug|x86.Build.0 = Debug|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Release|Win32.ActiveCfg = Release|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Release|Win32.Build.0 = Release|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Release|x64.ActiveCfg = Release|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Release|x64.Build.0 = Release|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Release|x86.ActiveCfg = Release|Any CPU
+		{BAD40427-8367-44CE-9E0F-0767DACB007A}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
